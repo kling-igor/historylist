@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
+  "name": "historylist",
   "version": "0.0.2",
-  "description": "React Webpack boilerplate",
+  "description": "Show event list",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --env.dev --hot"
@@ -16,6 +16,7 @@
     "@blueprintjs/select": "^3.8.0",
     "mobx": "^5.9.0",
     "mobx-react": "^5.4.3",
+    "moment": "^2.24.0",
     "react": "16.8.6",
     "react-dom": "^16.8.6",
     "styled-components": "^4.1.3",

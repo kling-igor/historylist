@@ -29,15 +29,4 @@ export const GlobalStyle = createGlobalStyle`
     left: 0;
     top: 0;
   }
-
-  .quickOpenInput {
-    margin: 4px;
-  }
-
-  /* стиль текста выпадающего меню CommandPalette */
-  .menu-item {
-    font-size: 13px;
-    /* font-weight: 500; */
-    line-height: 1em;
-  }
 `
